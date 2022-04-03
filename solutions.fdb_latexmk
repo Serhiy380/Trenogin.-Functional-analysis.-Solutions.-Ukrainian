@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1649001629 "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.tex" "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.pdf" "solutions" 1649001631
+["pdflatex"] 1649003063 "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.tex" "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.pdf" "solutions" 1649003065
   "/etc/texmf/web2c/texmf.cnf" 1642670272 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/blackakr/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1648997656 3308 eee81981029f67083258db36df06e523 ""
   "/home/blackakr/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1648997519 3312 d199be9bd555944e2403193d58a0256a ""
@@ -9,8 +9,8 @@
   "/home/blackakr/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/larm2488.tfm" 1648997418 3264 102508a989355317d27912fb22a38399 ""
   "/home/blackakr/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/lasl1200.tfm" 1649001627 3472 6d14f8899639fa703bd66d6b31a67f8b ""
   "/home/blackakr/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm" 1648997904 3512 f3a56cfe95a159371df20f73d1eb107d ""
-  "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.aux" 1649001631 473 38b71e793f2555b2c2e2e1e3ecaf15b8 ""
-  "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.tex" 1649001610 2660 a89b6024c59c833a74bcb4cc627f5584 ""
+  "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.aux" 1649003065 473 38b71e793f2555b2c2e2e1e3ecaf15b8 ""
+  "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.tex" 1649003063 3389 b1c4b996fc3ff465d189858df7e043a0 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -67,11 +67,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1613593815 38841 799d1dd9682a55ce442e10c99777ecc1 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1648903154 5160710 ecf427ae8fa19139d8691f526e47bb9b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1648903403 2570813 dee550e5ffba630f3ae1ea072513eb1e ""
-  "solutions.aux" 1649001631 473 38b71e793f2555b2c2e2e1e3ecaf15b8 "pdflatex"
-  "solutions.tex" 1649001610 2660 a89b6024c59c833a74bcb4cc627f5584 ""
+  "solutions.aux" 1649003065 473 38b71e793f2555b2c2e2e1e3ecaf15b8 "pdflatex"
+  "solutions.tex" 1649003063 3389 b1c4b996fc3ff465d189858df7e043a0 ""
   (generated)
   "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.log"
-  "solutions.pdf"
   "solutions.log"
-  "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.pdf"
   "solutions.aux"
+  "/home/blackakr/Documents/математика/функциональный анализ/треногин/решебник/solutions.pdf"
+  "solutions.pdf"

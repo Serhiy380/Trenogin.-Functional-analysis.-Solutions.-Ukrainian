@@ -29,7 +29,19 @@
     \end{proof}
     \item якщо $x_n \rightarrow x$, то $\|x_n\| \rightarrow \|x\|$.
     \begin{proof}
-        $|\|x_n\|| - \|x\| \leq \|x - x_n\| \rightarrow 0$. Згідно оберненої нерівності трикутника.
+        $|\|x_n\|| - \|x\|| \leq \|x - x_n\| \rightarrow 0$. Згідно оберненої нерівності трикутника.
+    \end{proof}
+    \item $x_n \rightarrow x$ та $\|x_n - y_n\| \rightarrow 0$, то $y_n \rightarrow x$.
+    \begin{proof}
+        $\|x - y_n\| = \|x - x_n + x_n - y_n\| \leq \|x - x_n\| + \|x_n - y_n\| \rightarrow 0$.
+    \end{proof}
+    \item якщо $x_n \rightarrow x$, то $\|x_n - y\| \rightarrow \|x - y\|$.
+    \begin{proof}
+        $|\|x_n - y\| - \|x - y\|| \leq \|x_ n - x\| \rightarrow 0$, згідно з оберненої рівності трикутника.
+    \end{proof} 
+    \item Якщо $x_n \rightarrow x, y_n \rightarrow y$, то $\|x_n - y_n\| \rightarrow \|x - y\|$.
+    \begin{proof}
+        $|\|x_n - y_n\| - \|x - y\|| \leq \|x_n - x + y_n - y\| \leq \|x_n - x\| \|y_n - y\| \rightarrow 0$.
     \end{proof}
 \end{enumerate}
 \end{document}
