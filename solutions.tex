@@ -22,5 +22,14 @@
         \end{equation}
     Максимум існує оскільки множина скінченна. Тоді для всіх $n \in \mathbb{N}$ $\|x_n\|\leq M$.
     \end{proof}
+    \item Якщо $x_n \rightarrow x$ та $\lambda_n \rightarrow \lambda, \lambda_n \in \mathbb{C}$, то $\lambda_n x_n \rightarrow \lambda x$.
+    
+    \begin{proof}
+      $  \|\lambda_n x_n  - \lambda x\| = \|\lambda_n x_n -\lambda_n x + \lambda_n x - \lambda x\| = \|\lambda_n (x_n - x) + x(\lambda - \lambda_n)\| \leq |\lambda_n|\|x_n - x\| + \|x\||\lambda - \lambda_n| \rightarrow 0$. 
+    \end{proof}
+    \item якщо $x_n \rightarrow x$, то $\|x_n\| \rightarrow \|x\|$.
+    \begin{proof}
+        $|\|x_n\|| - \|x\| \leq \|x - x_n\| \rightarrow 0$. Згідно оберненої нерівності трикутника.
+    \end{proof}
 \end{enumerate}
 \end{document}
