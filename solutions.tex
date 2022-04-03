@@ -1,9 +1,26 @@
-\documentclass{article}
+\documentclass[a4paper,12pt,twoside]{book}
 \usepackage[T2A]{fontenc}
 \usepackage[utf8]{inputenc}
+\usepackage{amsfonts}
 \usepackage[russian,ukrainian]{babel}
 \usepackage{amsthm}
 
 \begin{document}
-123
+\chapter{Нормовані простори}
+\section{Лінійні нормовані простори}
+\textbf{1.1}. Довести, що в означенні лінійного нормованого простору аксіому $\|\mathbf{x}\| = 0$ тоді й лише тоді, коли $\mathbf{x} = \mathbf{0}$, можна замінити на аксіому: з $\|\mathbf{x}\| = 0$ слідує $\mathbf{x} = 0$
+\begin{proof}
+    Нам потрібно довести, що з того, що $\mathbf{x} = 0$ слідує $\|\mathbf{x}\| = 0$. Будемо від супротивного. Нехай $\mathbf{x} = 0$ та $\|\mathbf{x}\| = a \neq 0$. Тоді $\|\mathbf{0} + \mathbf{0}\| = 2\|\mathbf{0}\|  = 2a = a $. Це можливо лише тоді, коли $a = 0$.
+\end{proof}
+\textbf{1.2} Нехай $x_n, x, y_n, y \in X (n \in \mathbb{N})$. Довести що:
+\begin{enumerate}
+    \item якщо $x_n \rightarrow x$, то $x_n$ - обмежена послідовність
+    \begin{proof}
+        За означенням $\forall \epsilon > 0 \exists N(\epsilon): \forall n > N(\epsilon) \|x_n - x\| < \epsilon$. Оскільки послідовність необмежена, знайдемо таке $N > N(\epsilon)$, що $\|x_N\| > \|x\| + \epsilon + 1$. Візмемо $\epsilon = 1$. Тоді існує $N \in \mathbb{N}$ таке, що для всіх $n > N \|x - x_n\| < 1.$, з цього випливає, що $\|x_n\| \leq \|x\| + 1$. Нехай
+        \begin{equation}
+            M = \max \{\|x_1\|,\|x_2\|\, ..., \|x_N\|, \|x\| + 1\}
+        \end{equation}
+    Максимум існує оскільки множина скінченна. Тоді для всіх $n \in \mathbb{N}$ $\|x_n\|\leq M$.
+    \end{proof}
+\end{enumerate}
 \end{document}
